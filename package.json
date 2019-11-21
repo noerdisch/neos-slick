@@ -13,7 +13,7 @@
       "commit": "git-cz"
    },
    "devDependencies": {
-      "@semantic-release/changelog": "^3.0.0",
+      "@semantic-release/changelog": "^3.0.6",
       "@semantic-release/git": "^7.0.4",
       "@semantic-release/release-notes-generator": "^7.0.2",
       "commitizen": "^3.0.0",
