@@ -740,9 +740,10 @@ conventional-changelog-angular@^5.0.0:
     compare-func "^1.3.1"
     q "^1.5.1"
 
-conventional-changelog-eslint@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-eslint/-/conventional-changelog-eslint-3.0.0.tgz#cc5376cb29a622c1ade197e155bf054640c05cd3"
+conventional-changelog-eslint@^3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/conventional-changelog-eslint/-/conventional-changelog-eslint-3.0.8.tgz#f8b952b7ed7253ea0ac0b30720bb381f4921b46c"
+  integrity sha512-5rTRltgWG7TpU1PqgKHMA/2ivjhrB+E+S7OCTvj0zM/QGg4vmnVH67Vq/EzvSNYtejhWC+OwzvDrLk3tqPry8A==
   dependencies:
     q "^1.5.1"
 
